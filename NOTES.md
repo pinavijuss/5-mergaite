@@ -1,0 +1,3 @@
+# Procesas
+
+- pradine failu struktura
