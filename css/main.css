@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+}
+
+header {
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    background-color: aqua;
+}
+
+main {
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    background-color: pink;
