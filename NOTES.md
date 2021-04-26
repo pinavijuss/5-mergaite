@@ -10,15 +10,21 @@
     - skirta aprasyti kas, ka ir kodel daro
     - iterpti nuoroda i daroma dizaina
     - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
-- [ ] issikirpti nuotraukas ir jas panaudoti
+- [x] issikirpti nuotraukas ir jas panaudoti
     - panaudoti reliatyvu kelia
     - png formatas, del fono spalvos (permatomumo)
-- [ ] aprasome stiliu:
+- [x] aprasome stiliu:
     - turinys turi buti centre
     - pagrindinis plotis turi buti fiksuotas
     - stiliu (CSS) atskirti nuo HTML
-- [ ] README.md
+- [x] README.md
 
+# HTML/CSS rasymo strategija
+
+1. israsyti kiek imanoma (isivaizduojama) HTML
+2. issirasyti CSS selektorius (selector)
+3. pradedant nuo labiausiai tevinio (is virsaus) selektoriaus, surasome reikiamus stilius
+4. REPEAT- go to step 1
 
 # pasiskaitymui
 
